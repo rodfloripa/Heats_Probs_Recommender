@@ -5,8 +5,8 @@ Tao Zhoua,Zoltán Kuscsika,Jian-Guo Liua, Matúš Medoa, Joseph Rushton Wakeling
 ![alt text](https://github.com/rodfloripa/Heats_Probs_Recommender/blob/main/hs.png?raw=true)
 <p align="center">
   <img 
-    width="300"
-    height="300"
+    width="600"
+    height="600"
     src="https://github.com/rodfloripa/Heats_Probs_Recommender/blob/main/hs.png"
   >
 </p>
