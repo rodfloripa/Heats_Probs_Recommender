@@ -7,7 +7,7 @@ Tao Zhoua,Zoltán Kuscsika,Jian-Guo Liua, Matúš Medoa, Joseph Rushton Wakeling
   <img 
     width="300"
     height="300"
-    src="[https://picsum.photos/300/300](https://github.com/rodfloripa/Heats_Probs_Recommender/blob/main/hs.png?raw=true)"
+    src="[[https://picsum.photos/300/300](https://github.com/rodfloripa/Heats_Probs_Recommender/blob/main/hs.png?raw=true)](https://github.com/rodfloripa/Heats_Probs_Recommender/blob/main/hs.png?raw=true)"
   >
 </p>
 
