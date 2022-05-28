@@ -3,6 +3,13 @@ The HeatS and ProbS algorithm for recommender systems from: <p><a href="https://
 Tao Zhoua,Zoltán Kuscsika,Jian-Guo Liua, Matúš Medoa, Joseph Rushton Wakelinga, and Yi-Cheng Zhanga
 
 ![alt text](https://github.com/rodfloripa/Heats_Probs_Recommender/blob/main/hs.png?raw=true)
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="[https://picsum.photos/300/300](https://github.com/rodfloripa/Heats_Probs_Recommender/blob/main/hs.png?raw=true)"
+  >
+</p>
 
 Fig. 1. The HeatS (A, B, C) and ProbS (D, E, F) algorithms  at
 work on the bipartite user-object network. Objects are shown as squares,
